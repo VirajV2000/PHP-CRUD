@@ -7,6 +7,7 @@
 ?>
 
 <?php
+
 include("partials/db_connect.php");
 $username=$_SESSION['username'];
 $id=$_REQUEST['id'];
